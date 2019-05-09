@@ -1,8 +1,8 @@
 h1 {
+    color: rgb(85, 33, 33);
     text-align: center;
     font-size: 100px;
-    font-family: sans-serif
-    
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
 }
 
 body {
@@ -18,13 +18,18 @@ body {
     display: inline-block;
     padding: 52px;
     font-family: sans-serif;       
+    height:300px;
+	width:auto;
 }
 
-.person > img {
+img {
 	height:300px;
 	width:auto;
 	border-radius: 50%;
 }
 h3 {
  font-size:30px;
+}
+#header {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
 }
